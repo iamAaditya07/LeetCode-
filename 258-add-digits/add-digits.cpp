@@ -1,7 +1,7 @@
 class Solution {
 public:
     int sum(int n){
-        long int sum=0;
+        int sum=0;
         int r;
         while(n>0){
             r=n%10;
